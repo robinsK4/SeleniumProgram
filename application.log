@@ -1,0 +1,5 @@
+2018-08-04 04:44:06,116 +0530 [main] INFO  (Log4jProgram.java:18) - Browser Launched
+2018-08-04 04:44:26,575 +0530 [main] INFO  (Log4jProgram.java:21) - Application Launched
+2018-08-04 04:44:26,728 +0530 [main] INFO  (Log4jProgram.java:24) - Uername Entered
+2018-08-04 04:44:26,843 +0530 [main] INFO  (Log4jProgram.java:26) - password Entered
+2018-08-04 04:44:37,118 +0530 [main] INFO  (Log4jProgram.java:28) - Login button clicked
